@@ -9,9 +9,4 @@ public class PayBankApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PayBankApplication.class, args);
 	}
-
-	//todo: including github template
-	//todo: structing paths
-	//todo: clean files
-
 }
